@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.width1920 {
+    margin: 0 auto;
+    width: 1920px;
+    background-color: #141414;
+}
+.text1 {
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+}
+.menu {
+    display: flex;
+    margin-top: -182px;
+    gap: 33px;
+}
+header p:hover {
+    color: grey;
+}
+.flexhead {
+    display: flex;
+    gap: 535px;
+}
+.logo {
+    margin-top: -174px;
+    margin-left: 139px;
+}
+.bl1 {
+   margin-top: 60px;
+}
+
+.text2 {
+    font-family: "Inter", sans-serif;
+    font-size: 55px;
+    font-weight: 400;
+    font-style:italic;
+    color: #ffffff;
+    margin-left: 115px;
+    margin-top: -680px;
+}
+.button1 {
+    background-color: transparent;
+    font-family: "Inter", sans-serif;
+    font-size: 55px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: -900px;
+    margin-left: 1287px;
+    width: 513px;
+    height: 168px;
+    border: 2px solid #ffffff;
+}
+.but1 {
+    margin-top: -195px;
+}
+.ff {
+    display: flex;
+    
+    margin-top: 30px;
+    gap: 141px;
+    align-items: center;
+}
+.bl21 {
+    display: block;
+    
+}
+.bl211 {
+    display: block;
+    margin-left: -32px;
+}
+.bl212 {
+    display: block;
+    margin-left: -36px;
+}
+.text3 {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    margin-top: 23px;
+}
+.backg1 {
+    margin-top: 455px;
+}
+.z {
+    font-size: 64px;
+    color: #fff;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    margin-top: -592px;
+}
+.s1 {
+    margin-left: 100px;
+    
+}
+.s2 {
+    margin-left: 15px;
+}
+.bl3 {
+    margin-top: 92px;
+}
+.text4 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: 64px;
+    color: #fff;
+    margin-top: -805px;
+}
+.karta {
+    margin-left: 459px;
+    margin-top: 27px;
+}
+.bl4 {
+    margin-top: 166px;
+}
+.text5 {
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    font-size: 64px;
+    color: #fff;
+    margin-top: -668px;
+  
+}
+.flexx2 {
+    display: flex;
+    margin-left: 278px;
+    margin-top: -190px;
+    gap: 109px;
+    
+}
+.s11 {
+    margin-left: 100px;
+    margin-top: 215px;
+}
+.zagg {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    margin-top: 23px;
+}
+.price {
+    color: #fff;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 5px;
+}
+.s22 {
+    margin-left: 1780px;
+    margin-top: -200px;
+}
+.s222 {
+    margin-top: -20px;
+}
+footer {
+    margin-top: 105px;
+}
+.logo2 {
+    margin-left: 100px;
+    margin-top: -105px;
+}
+.block {
+    display: block;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    font-style:italic;
+    text-decoration: underline;
+    color: #fff;
+    margin-top: -75px;  
+}
+.text9 {
+    margin-top: 15px;
+}
+.text10 {
+    margin-top: 15px;
+}
+.seti {
+    margin-left: 1448px;
+    margin-top: -85px;
+}
+footer p:hover {
+    color: grey;
+}
